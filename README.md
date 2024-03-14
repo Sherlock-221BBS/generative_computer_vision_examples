@@ -10,5 +10,6 @@ One of the thing that you may ask is why having this repository when some awesom
 
 ## Notes
 - I am not the authoritative figure on all the topic discussed here. The code is not unique and it will be most of the time same as the code of the people from whom I have learnt the particular model. 
+- The work is in progress. The main intention is to show how to code the main architecture of the model hence some of the times training is not done. It will be updated shortly with good example of dataset trained on that particular model
 - Credits always goes to the original teacher from whom I learnt.
 - This is an ongoing effort and often will be incomplete but will contain enough code and concepts to understand the core of particular model and task.
